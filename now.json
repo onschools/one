@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "http://www.8school.info/$1"}
+      {"src": "/(.*)","dest": "https://fugon.herokuapp.com/$1"}
   ]
 }
